@@ -53,7 +53,7 @@ python3 tests/test-deploy.py
 ## Connect with me
 If you appreciate this, feel free to follow me on:
 
-[![Manuel Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pmanuelinfoec)
+[![Manuel Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manuelinfoec)
 [![Manuel Infosec YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ManuelInfosec)
 [![Chiemezie Njoku Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelinfosec/)
 [![Manuel Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://manuelinfosec.medium.com/)
