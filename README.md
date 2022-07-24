@@ -27,7 +27,7 @@ python3 scripts/deploy.py
 ```
 
 ### Deployment to a testnet or mainnet
-You could change the network you're deploying to. The script defaults to Rinkeby testnet with chain id, 4. Do so my editing `deploy.py` :
+A custom network deployment is possible by changing the HTTP provider and chain ID. The script defaults to Rinkeby testnet with chain ID, 4. Do so by editing `deploy.py` :
 
 ```python
 # imports
@@ -42,7 +42,7 @@ solc_version = "0.8.7"
 # deploy.py continues
 ```
 
-Replacing network and chain_id with its a node url and its chain ID. You could use an Infura full node address.
+Replacing `network` and `chainId` with its a node url and its chain ID, respectively. You could create a node address alongside an API key with [Infura](https://infura.io).
 
 ## Testing contracts
 Next, run `tests/test-deploy.py` from the project directory:
